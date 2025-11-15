@@ -1,4 +1,4 @@
-[# BLENDED_LEARNING
+# BLENDED_LEARNING
 # Implementation of Decision Tree Model for Tumor Classification
 
 ## AIM:
